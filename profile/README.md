@@ -14,6 +14,7 @@ We build open-source Go libraries for routing, grouping, and managing alerts in 
 | [go-client](https://github.com/slackmgr/go-client) | Send alerts to a running instance. One import, done. |
 | [plugins](https://github.com/slackmgr/plugins) | AWS SQS, DynamoDB, Postgres, GCP Pub/Sub — pick your flavour |
 | [types](https://github.com/slackmgr/types) | Shared interfaces. Small, boring, essential. |
+| [examples](https://github.com/slackmgr/examples) | Minimal and flexible host apps — copy, tweak, ship. |
 
 ## Philosophy
 
