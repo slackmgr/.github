@@ -2,7 +2,7 @@
 
 **Making your Slack channels slightly less chaotic since 2024.**
 
-We build open-source Go libraries for routing, grouping, and managing alerts in Slack — so your on-call engineer gets one coherent thread instead of 47 identical pings at 3am.
+We build open-source Go libraries for routing, grouping, and managing alerts in Slack — so your on-call engineer gets one coherent thread instead of 47 identical pings at 3am. Correlation IDs, severity-based ordering, emoji-driven triage, auto-resolution, escalation ladders, actionable webhook buttons — it's all in there. The [core README](https://github.com/slackmgr/core#readme) has the full breakdown.
 
 ---
 
