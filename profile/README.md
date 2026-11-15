@@ -10,7 +10,7 @@ We build open-source Go libraries for routing, grouping, and managing alerts in 
 
 | Repo | What it does |
 |------|-------------|
-| [core](https://github.com/slackmgr/core) | The brains — REST API + alert manager as embeddable Go libraries |
+| [core](https://github.com/slackmgr/core) | The brains — REST API + alert manager as embeddable Go libraries ([API reference](https://slackmgr.github.io/core/)) |
 | [go-client](https://github.com/slackmgr/go-client) | Send alerts to a running instance. One import, done. |
 | [plugins](https://github.com/slackmgr/plugins) | AWS SQS, DynamoDB, Postgres, GCP Pub/Sub — pick your flavour |
 | [types](https://github.com/slackmgr/types) | Shared interfaces. Small, boring, essential. |
